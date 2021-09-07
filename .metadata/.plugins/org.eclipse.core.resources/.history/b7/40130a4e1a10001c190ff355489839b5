@@ -1,0 +1,11 @@
+package selenium_session_1;
+
+/*Chrome:
+ * 1) gecko driver download and copy to project main folder.
+ * 2) browser to run we need execution Engine which is gecko driver.
+ * */
+public class Ex3 {
+	public static void main(String[] args) {
+
+	}
+}

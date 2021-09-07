@@ -1,0 +1,14 @@
+package selenium_session_1;
+
+/*Softwares :
+ * 1) QTP(UFT)
+ * 2) RFT
+ * 3) Selenium web services 
+ * # languages - Python, c#, java , Javascript etc.
+ * #it automates browser.
+ * */
+public class Ex1 {
+	public static void main(String[] args) {
+
+	}
+}
